@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @yashilbusa
 - 👀 I’m interested in Developing 
-- 🌱 I’m currently learning Flutter Developer Program.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yashilpatel1914@gmail.com
-- ⚡ Fun fact : Extrovert Person
+- ⚡ Fun fact : Extrovert Person and Funny 😄
 
 <!---
 yashilbusa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
