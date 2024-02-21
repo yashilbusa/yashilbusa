@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing 
 - 🌱 I’m currently learning Flutter Developer Program.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Through Linked Profile
+- 📫 How to reach me : yashilpatel1914@gmail.com
 - ⚡ Fun fact : Extrovert Person
 
 <!---
